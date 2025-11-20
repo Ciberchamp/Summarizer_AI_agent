@@ -61,13 +61,5 @@ Modern dashboard with:
 ---
 
 ## 🎥 **Video Demo**
-👉 _Add link here_
+👉 https://drive.google.com/file/d/1G5TjXkiP-NLkd_ALmENy27FDAToaKzWE/view?usp=sharing
 
-`[Demo Video Placeholder]`
-
----
-
-## 🌐 **Hosted Streamlit App**
-👉 _Add Streamlit Cloud URL here_
-
-`[Hosted App Placeholder]`
