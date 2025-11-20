@@ -1,0 +1,50 @@
+[
+    {
+        "rule_id": 1,
+        "rule": "Act must define key terms",
+        "status": "pass",
+        "evidence": "- 'Standard allowance' means the allowance to be included in an award of universal credit under section 9 of the Welfare Reform Act 2012",
+        "explanation": "This rule is pass/fail because it requires the Act to explicitly define key terms, ensuring clarity and precision in the legislation.",
+        "confidence": 90
+    },
+    {
+        "rule_id": 2,
+        "rule": "Act must specify eligibility criteria",
+        "status": "pass",
+        "evidence": "- Terminally ill claimants receive the protected LCWRA amount",
+        "explanation": "This rule is pass/fail because it requires that the Act specifies eligibility criteria for the benefit, and in this case, it does so by mentioning a specific group of claimants (terminally ill)",
+        "confidence": 90
+    },
+    {
+        "rule_id": 3,
+        "rule": "Act must specify responsibilities of administering authority",
+        "status": "fail",
+        "evidence": "No relevant content found.",
+        "explanation": "This rule is pass/fail because it requires a specific condition (the act specifying responsibilities of the administering authority) to be met, with no room for partial credit or exceptions.",
+        "confidence": 60
+    },
+    {
+        "rule_id": 4,
+        "rule": "Act must include enforcement or penalties",
+        "status": "fail",
+        "evidence": "No relevant content found.",
+        "explanation": "The rule is pass/fail because it requires a binary outcome, with no room for partial credit or variation in enforcement.",
+        "confidence": 60
+    },
+    {
+        "rule_id": 5,
+        "rule": "Act must include payment calculation or entitlements",
+        "status": "partial",
+        "evidence": "- LCWRA element from 6 April 2026: \u00a3217.26 for new claimants",
+        "explanation": "This rule is pass/fail because it requires a specific numerical value to be included in the act, which is the LCWRA element of \u00a3217.26 for new claimants from 6 April",
+        "confidence": 75
+    },
+    {
+        "rule_id": 6,
+        "rule": "Act must include record-keeping or reporting provisions",
+        "status": "fail",
+        "evidence": "No relevant content found.",
+        "explanation": "This rule is pass/fail because it requires a binary outcome, with no room for partial credit or variation in scoring.",
+        "confidence": 60
+    }
+]

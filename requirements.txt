@@ -1,0 +1,5 @@
+pdfplumber
+pypdf2
+python-dotenv
+pytest
+streamlit
